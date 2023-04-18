@@ -4,7 +4,7 @@ header {
 
 h2 {
     color: cornsilk;
-    background-color: black;
+    background-image: linear-gradient( purple, maroon );
 }
 
 h3 {
